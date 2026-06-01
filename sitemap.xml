@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ioannes.top/Genesis/</loc>
+    
+    <lastmod>2026-06-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/documents-of-the-second-vatican-council/index.html</loc>
     
     <lastmod>2026-06-01</lastmod>
@@ -93,15 +102,6 @@
   
   <url>
     <loc>https://ioannes.top/Exodus/</loc>
-    
-    <lastmod>2026-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/Genesis/</loc>
     
     <lastmod>2026-06-01</lastmod>
     
