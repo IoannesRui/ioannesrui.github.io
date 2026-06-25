@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ioannes.top/selected-biblical-sayings/</loc>
+    <loc>https://ioannes.top/rosary/</loc>
     
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +13,52 @@
   <url>
     <loc>https://ioannes.top/the-54-day-rosary-novena/</loc>
     
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/rosary/</loc>
+    <loc>https://ioannes.top/the-practice-of-the-presence-of-god/</loc>
     
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/de-imitatione-christi/</loc>
+    
+    <lastmod>2026-06-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/c-est-la-confiance-paul-team-translation/</loc>
+    
+    <lastmod>2026-06-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/c-est-la-confiance-shi-lei-translation/</loc>
+    
+    <lastmod>2026-06-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/selected-biblical-sayings/</loc>
+    
+    <lastmod>2026-06-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -48,15 +84,6 @@
   
   <url>
     <loc>https://ioannes.top/documents-of-the-second-vatican-council/index.html</loc>
-    
-    <lastmod>2026-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/de-imitatione-christi/</loc>
     
     <lastmod>2026-06-01</lastmod>
     
@@ -110,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/the-practice-of-the-presence-of-god/</loc>
-    
-    <lastmod>2026-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/index.html</loc>
     
     <lastmod>2026-05-30</lastmod>
@@ -157,7 +175,7 @@
 
   <url>
     <loc>https://ioannes.top/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,28 +183,70 @@
   
   <url>
     <loc>https://ioannes.top/tags/TODO/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ioannes.top/tags/rosary/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ioannes.top/tags/fasting-group/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/%E5%AE%97%E5%BA%A7%E5%8A%9D%E8%B0%95/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/franciscus/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/c-est-la-confiance/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -195,28 +255,35 @@
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/book/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/categories/catholicism/%E5%AE%97%E5%BA%A7/</loc>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
