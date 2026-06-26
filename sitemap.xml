@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ioannes.top/c-est-la-confiance-shi-lei-translation/</loc>
+    <loc>https://ioannes.top/rosary/</loc>
     
     <lastmod>2026-06-26</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://ioannes.top/the-54-day-rosary-novena/</loc>
+    
+    <lastmod>2026-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/c-est-la-confiance-shi-lei-translation/</loc>
     
     <lastmod>2026-06-26</lastmod>
     
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://ioannes.top/litanie-in-onore-di-san-giuseppe/</loc>
-    
-    <lastmod>2026-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/rosary/</loc>
     
     <lastmod>2026-06-26</lastmod>
     
@@ -191,13 +191,6 @@
 
   
   <url>
-    <loc>https://ioannes.top/tags/bible/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/TODO/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,6 +199,13 @@
   
   <url>
     <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/bible/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
