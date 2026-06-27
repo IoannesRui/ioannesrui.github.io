@@ -1,7 +1,8 @@
-https://ioannes.top/rosary/
+https://ioannes.top/common-scriptures/
 https://ioannes.top/rosary-bible-meditation/
-https://ioannes.top/c-est-la-confiance-shi-lei-translation/
 https://ioannes.top/the-54-day-rosary-novena/
+https://ioannes.top/rosary/
+https://ioannes.top/c-est-la-confiance-shi-lei-translation/
 https://ioannes.top/litanie-in-onore-di-san-giuseppe/
 https://ioannes.top/the-rosary-of-the-seven-sorrows/
 https://ioannes.top/litanie-lauretane/
@@ -13,7 +14,6 @@ https://ioannes.top/studium-biblicum-version/index.html
 https://ioannes.top/fasting-group/index.html
 https://ioannes.top/documents-of-the-second-vatican-council/index.html
 https://ioannes.top/schedule/index.html
-https://ioannes.top/common-scriptures/
 https://ioannes.top/tags/index.html
 https://ioannes.top/categories/index.html
 https://ioannes.top/about/index.html
@@ -24,9 +24,9 @@ https://ioannes.top/tags/bible/
 https://ioannes.top/tags/TODO/
 https://ioannes.top/tags/sancta-maria/
 https://ioannes.top/tags/saint-joseph/
-https://ioannes.top/tags/rosary/
-https://ioannes.top/tags/meditation/
 https://ioannes.top/tags/the-old-testament/
+https://ioannes.top/tags/meditation/
+https://ioannes.top/tags/rosary/
 https://ioannes.top/tags/fasting-group/
 https://ioannes.top/tags/%E5%AE%97%E5%BA%A7%E5%8A%9D%E8%B0%95/
 https://ioannes.top/tags/franciscus/

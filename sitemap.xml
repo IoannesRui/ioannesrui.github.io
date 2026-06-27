@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ioannes.top/rosary/</loc>
+    <loc>https://ioannes.top/common-scriptures/</loc>
     
     <lastmod>2026-06-27</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/c-est-la-confiance-shi-lei-translation/</loc>
+    <loc>https://ioannes.top/the-54-day-rosary-novena/</loc>
     
     <lastmod>2026-06-27</lastmod>
     
@@ -29,9 +29,18 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/the-54-day-rosary-novena/</loc>
+    <loc>https://ioannes.top/rosary/</loc>
     
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/c-est-la-confiance-shi-lei-translation/</loc>
+    
+    <lastmod>2026-06-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -137,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/common-scriptures/</loc>
-    
-    <lastmod>2026-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/index.html</loc>
     
     <lastmod>2026-05-30</lastmod>
@@ -226,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/rosary/</loc>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -240,7 +240,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/rosary/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
