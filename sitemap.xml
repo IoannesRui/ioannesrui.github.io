@@ -191,21 +191,14 @@
 
   
   <url>
-    <loc>https://ioannes.top/tags/sancta-maria/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/rosary/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/TODO/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -219,7 +212,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <loc>https://ioannes.top/tags/sancta-maria/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/rosary/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -268,6 +268,27 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/apostolic-exhortations/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/sacred-heart/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -283,27 +304,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/%E5%8F%B0%E6%B9%BE%E4%B8%BB%E6%95%99%E5%9B%A2%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/apostolic-exhortations/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
