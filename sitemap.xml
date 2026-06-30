@@ -209,6 +209,13 @@
 
   
   <url>
+    <loc>https://ioannes.top/tags/TODO/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/sancta-maria/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,7 +230,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/TODO/</loc>
+    <loc>https://ioannes.top/tags/saint-joseph/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -244,14 +251,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/saint-joseph/</loc>
+    <loc>https://ioannes.top/tags/meditation/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/meditation/</loc>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,13 +287,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/leo-xiv/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -344,13 +344,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/book/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -358,7 +351,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/</loc>
+    <loc>https://ioannes.top/categories/catholicism/book/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -366,6 +359,13 @@
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
