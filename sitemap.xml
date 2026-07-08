@@ -236,7 +236,7 @@
 
   
   <url>
-    <loc>https://ioannes.top/tags/TODO/</loc>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -250,7 +250,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <loc>https://ioannes.top/tags/TODO/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -313,13 +313,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/leo-xiv/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -334,7 +327,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/christus-vivit/</loc>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,13 +348,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -370,6 +356,20 @@
   
   <url>
     <loc>https://ioannes.top/tags/c-est-la-confiance/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/christus-vivit/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -385,14 +385,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
+    <loc>https://ioannes.top/categories/catholicism/book/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/book/</loc>
+    <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -413,14 +413,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
