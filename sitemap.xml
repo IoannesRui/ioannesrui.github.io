@@ -257,6 +257,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/bible/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -271,13 +278,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/meditation/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,14 +285,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/bible/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -314,6 +307,13 @@
   
   <url>
     <loc>https://ioannes.top/tags/%E5%8F%B0%E6%B9%BE%E4%B8%BB%E6%95%99%E5%9B%A2%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -399,14 +399,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/</loc>
+    <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
