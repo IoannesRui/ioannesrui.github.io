@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ioannes.top/christus-vivit-chapter-iv/</loc>
+    <loc>https://ioannes.top/ccc-2720-2745/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/ccc-2720-2745/</loc>
+    <loc>https://ioannes.top/christus-vivit-chapter-iv/</loc>
     
     <lastmod>2026-07-08</lastmod>
     
@@ -243,14 +243,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <loc>https://ioannes.top/tags/sancta-maria/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/sancta-maria/</loc>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -285,13 +285,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/franciscus/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,14 +306,21 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/leo-xiv/</loc>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/leo-xiv/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,6 +355,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/Christus-vivit/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/sacred-heart/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -363,13 +370,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/dilexit-nos/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/Christus-vivit/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -385,14 +385,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/book/</loc>
+    <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
+    <loc>https://ioannes.top/categories/catholicism/book/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -420,6 +420,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -428,13 +435,6 @@
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/apostolic/encyclicals/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
