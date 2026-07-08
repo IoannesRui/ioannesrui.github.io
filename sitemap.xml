@@ -243,6 +243,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/sancta-maria/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -258,13 +265,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/bible/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -313,14 +313,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/leo-xiv/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/leo-xiv/</loc>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -334,7 +334,21 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/Christus-vivit/</loc>
+    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/c-est-la-confiance/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -355,21 +369,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/c-est-la-confiance/</loc>
+    <loc>https://ioannes.top/tags/Christus-vivit/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -427,14 +427,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/encyclicals/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/encyclicals/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
