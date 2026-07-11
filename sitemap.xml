@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ioannes.top/conversaciones/</loc>
+    
+    <lastmod>2026-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/via-crucis/</loc>
+    
+    <lastmod>2026-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/forja/</loc>
     
     <lastmod>2026-07-11</lastmod>
@@ -65,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/conversaciones/</loc>
-    
-    <lastmod>2026-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/the-54-day-rosary-novena/</loc>
     
     <lastmod>2026-07-11</lastmod>
@@ -104,15 +113,6 @@
     <loc>https://ioannes.top/rosary-bible-meditation/</loc>
     
     <lastmod>2026-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/via-crucis/</loc>
-    
-    <lastmod>2026-07-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -329,7 +329,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <loc>https://ioannes.top/tags/saint-joseph/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -343,7 +343,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/saint-joseph/</loc>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -364,14 +371,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E7%90%86/</loc>
+    <loc>https://ioannes.top/tags/via-crucis/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/leo-xiv/</loc>
+    <loc>https://ioannes.top/tags/franciscus/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -392,7 +399,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/franciscus/</loc>
+    <loc>https://ioannes.top/tags/fasting-group/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -406,7 +413,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/fasting-group/</loc>
+    <loc>https://ioannes.top/tags/leo-xiv/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -427,20 +434,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/christus-vivit/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/sacred-heart/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -449,6 +442,20 @@
   
   <url>
     <loc>https://ioannes.top/tags/dilexit-nos/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/christus-vivit/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -472,13 +479,6 @@
   
   <url>
     <loc>https://ioannes.top/categories/catholicism/book/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/categories/%E5%A4%A9%E4%B8%BB%E6%95%99-%E4%B9%A6%E7%B1%8D/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
