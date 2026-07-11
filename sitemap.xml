@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ioannes.top/christus-vivit-chapter-iv-png/</loc>
+    
+    <lastmod>2026-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/christus-vivit-chapter-iv-text/</loc>
+    
+    <lastmod>2026-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/ccc-2725-2745/</loc>
     
     <lastmod>2026-07-11</lastmod>
@@ -131,15 +149,6 @@
     <loc>https://ioannes.top/rosary-bible-meditation/</loc>
     
     <lastmod>2026-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/christus-vivit-chapter-iv/</loc>
-    
-    <lastmod>2026-07-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -315,20 +324,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/bible/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/sancta-maria/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -343,6 +338,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/bible/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/saint-joseph/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,14 +352,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
+    <loc>https://ioannes.top/tags/meditation/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/meditation/</loc>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -378,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -406,6 +408,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/franciscus/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -414,6 +423,13 @@
   
   <url>
     <loc>https://ioannes.top/tags/fasting-group/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/christus-vivit/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -435,13 +451,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/christus-vivit/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -485,14 +494,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/</loc>
+    <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
