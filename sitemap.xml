@@ -317,7 +317,7 @@
 
   
   <url>
-    <loc>https://ioannes.top/tags/bible/</loc>
+    <loc>https://ioannes.top/tags/saint-joseph/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -325,6 +325,13 @@
   
   <url>
     <loc>https://ioannes.top/tags/TODO/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/bible/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -345,13 +352,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/saint-joseph/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/meditation/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -366,6 +366,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/saint-josemaria-escriva-de-balaguer/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,13 +381,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/via-crucis/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -408,14 +408,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/leo-xiv/</loc>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/leo-xiv/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -515,14 +515,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
