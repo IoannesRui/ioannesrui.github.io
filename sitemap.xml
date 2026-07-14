@@ -317,14 +317,14 @@
 
   
   <url>
-    <loc>https://ioannes.top/tags/saint-joseph/</loc>
+    <loc>https://ioannes.top/tags/TODO/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/TODO/</loc>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -345,6 +345,13 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/saint-joseph/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/rosary/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -353,20 +360,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/meditation/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -387,28 +380,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/franciscus/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/%E5%9C%A3%E5%8F%AC/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/%E5%8F%B0%E6%B9%BE%E4%B8%BB%E6%95%99%E5%9B%A2%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -422,7 +394,42 @@
   </url>
   
   <url>
+    <loc>https://ioannes.top/tags/vocatione/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/%E5%8F%B0%E6%B9%BE%E4%B8%BB%E6%95%99%E5%9B%A2%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/fasting-group/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/franciscus/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/the-old-testament/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/christus-vivit/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -444,13 +451,6 @@
   
   <url>
     <loc>https://ioannes.top/tags/shi-lei-translation/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/christus-vivit/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -501,13 +501,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/categories/catholicism/apostolic/messages/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -515,14 +508,21 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/studium-biblicum-version/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
