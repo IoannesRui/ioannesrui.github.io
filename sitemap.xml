@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ioannes.top/chronicle-of-the-ascent/index.html</loc>
+    
+    <lastmod>2026-08-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/fasting-group/index.html</loc>
+    
+    <lastmod>2026-08-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/forja/</loc>
     
     <lastmod>2026-08-07</lastmod>
@@ -21,15 +39,6 @@
   
   <url>
     <loc>https://ioannes.top/camino/</loc>
-    
-    <lastmod>2026-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/fasting-group/index.html</loc>
     
     <lastmod>2026-08-07</lastmod>
     
@@ -110,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/chronicle-of-the-ascent/index.html</loc>
-    
-    <lastmod>2026-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/common-scriptures/</loc>
     
     <lastmod>2026-07-31</lastmod>
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/litanie-lauretane/</loc>
+    <loc>https://ioannes.top/the-rosary-of-the-seven-sorrows/</loc>
     
     <lastmod>2026-07-31</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/the-rosary-of-the-seven-sorrows/</loc>
+    <loc>https://ioannes.top/litanie-lauretane/</loc>
     
     <lastmod>2026-07-31</lastmod>
     
@@ -335,7 +335,21 @@
 
   
   <url>
+    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ioannes.top/tags/sancta-maria/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/rosary/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -349,7 +363,7 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/rosary/</loc>
+    <loc>https://ioannes.top/tags/bible/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -370,14 +384,21 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/not-proofread/</loc>
+    <loc>https://ioannes.top/tags/saint-josemaria-escriva-de-balaguer/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/bible/</loc>
+    <loc>https://ioannes.top/tags/via-crucis/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -405,20 +426,6 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/saint-josemaria-escriva-de-balaguer/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/via-crucis/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ioannes.top/tags/leo-xiv/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -426,7 +433,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/tags/catechism-of-the-catholic-church/</loc>
+    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ioannes.top/tags/c-est-la-confiance/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -453,20 +467,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://ioannes.top/tags/saint-therese-of-the-child-jesus-and-the-holy-face/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ioannes.top/tags/c-est-la-confiance/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -477,14 +477,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
+    <loc>https://ioannes.top/categories/catholicism/book/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/book/</loc>
+    <loc>https://ioannes.top/categories/catholicism/prayers/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -505,14 +505,14 @@
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ioannes.top/categories/catholicism/apostolic/apostolic-exhortations/</loc>
+    <loc>https://ioannes.top/categories/catholicism/apostolic/messages/world-day-of-prayer-for-vocations/</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
